@@ -18,7 +18,7 @@ This project has been inspired by Ania's YouTube tutorial: [Learn CSS transform 
 
 1. Clone the repository:
    ```bash
-  git@github.com:brigitabi/css-penguin.git
+   git clone <git@github.com:brigitabi/css-penguin.git>
 
 2. Open the index.html file with Live Server.
   
